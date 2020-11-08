@@ -1,2 +1,2 @@
 # RepositoryWahyu
-Latihan_3DB01
+Baru_Belajar
