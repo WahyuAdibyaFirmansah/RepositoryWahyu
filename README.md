@@ -1,2 +1,0 @@
-# RepositoryWahyu
-Baru_Belajar
